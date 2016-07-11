@@ -1,0 +1,83 @@
+
+
+
+.container{
+  margin-top:50px;
+  max-width: 90%;
+}
+.row{
+	margin-top:10px;
+	margin-bottom:40px;
+	margin-right:0px;
+	margin-left:0px;
+}
+.col-lg-12{
+    padding: 20px;
+ }
+
+ a{
+ 	font-size: 35px;
+
+ }
+ p{
+ 	font-size: 20px;
+ 	padding: 20px;
+ }
+
+img{
+	z-index: 2;
+
+}
+button{
+	color:#b3ffcc;
+	background: #008001;
+}
+#Logo{
+	padding: 20px;
+	background: #b3ffcc;
+	border-radius: 30px  150px;
+
+}
+#SearchBar{
+	background: #b3ffcc;
+	border-radius: 30px;
+	padding: 30px;
+}
+#SearchResult{
+	padding: 20px;
+	border-radius: 30px;
+}
+
+
+
+#SearchButton{
+	float: left;
+	margin-bottom: 5px;
+
+
+}
+#RandomArticle{
+	float: right;
+}
+
+
+
+#ThirdCol{
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right:0px;
+	padding-left:0px;
+}
+#SecondCol {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+#FirstCol {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+
+#SearchNumber{
+	height: 32px;
+}
